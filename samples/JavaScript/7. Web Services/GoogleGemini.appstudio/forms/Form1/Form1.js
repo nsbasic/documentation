@@ -5,7 +5,7 @@ https://ai.google.dev/tutorials/rest_quickstart
 https://www.scrapingbee.com/curl-converter/javascript-fetch/
 
 // Get API key here: https://ai.google.dev/tutorials/setup
-const GOOGLE_API = 'AIzaSyDRbS-C9288T-nCKBDoq1SHGViwDqxmslU';
+const GOOGLE_API = 'AIza...';
 
 butAsk.onclick = async function () {
   labAnswer.text = "Retrieving...";
