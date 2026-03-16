@@ -3,7 +3,7 @@ Contains publicly facing documentation for NSB/AppStudio. For use by LLMs and as
 
 Throughout this repo, `AppStudio` refers to `NSB/AppStudio`.
 
-The files are a copy of the samples, toolbox and wiki in the actual AppStudio development repository.
+The files are a copy of the samples, toolbox and wiki directories in the actual AppStudio development repository.
 
 ## Contents ##
 
