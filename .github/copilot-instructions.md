@@ -8,7 +8,7 @@ NSB/AppStudio is a cross-platform desktop IDE application for building mobile an
 
 - **Primary Language**: JavaScript
 - **Secondary Language**: NSB/AppStudio BASIC
-- **GUI Framework**: NSB/AppStudio, as documented in https://github.com/nsbasic/Documentation. It does not use WinForms.
+- **GUI Framework**: NSB/AppStudio, as documented in https://github.com/nsbasic/documentation. It does not use WinForms.
 
 ## Development Environment Setup
 
