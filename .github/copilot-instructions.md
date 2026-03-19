@@ -36,6 +36,9 @@ NSB/AppStudio is a cross-platform desktop IDE application for building mobile an
 - The project type is NSB/AppStudio, also called AppStudio for short.
 - See Creating NSB/AppStudio Projects
 
+### Control Files
+- Element IDs must be unique across the entire project — the same id cannot appear in two different forms. Before naming a new control, check all existing element files across all forms to pick an unused name.
+
 ## Deployment Targets
 
 The IDE supports deploying to:
